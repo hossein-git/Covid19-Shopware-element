@@ -1,5 +1,5 @@
-# Coid19-Shopware
-Coronavirus (Coid19) static Element for shoppingWorld of [Shopware 5.6 ](https://github.com/shopware/shopware.git   "Shopware 5.6 ")
+# COVID19-Shopware
+Coronavirus (COVID19) static Element for shoppingWorld of [Shopware 5.6 ](https://github.com/shopware/shopware.git   "Shopware 5.6 ")
 
 ## Images
 
