@@ -1,4 +1,4 @@
-# COVID19-Shopware
+# COVID19-Shopware Element
 Coronavirus (COVID19) static Element for shoppingWorld of [Shopware 5.6 ](https://github.com/shopware/shopware.git   "Shopware 5.6 ")
 
 ## Images
